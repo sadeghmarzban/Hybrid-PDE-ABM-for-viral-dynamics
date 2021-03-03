@@ -1,1 +1,1 @@
-# Hybrid-PDE-ABM-for-viral-dynamics
+# Hybrid PDE-ABM model for viral dynamics
