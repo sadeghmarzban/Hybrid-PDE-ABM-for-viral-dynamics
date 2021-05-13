@@ -6,5 +6,5 @@ This repository contains our implementation of this model in the manuscript "*A 
 ## References: 
 [[1]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007635) Bravo RR, Baratchart E, West J, Schenck RO, Miller AK, Gallaher J, et al. (2020) Hybrid Automata Library: A flexible platform for hybrid modeling with real-time visualization. PLoS Comput Biol 16(3): e1007635.
 
-[2] Sadegh Marzban, Renji Han, Nóra Juhász, Gergely Röst, A hybrid PDE-ABM model for viral dynamics with application to SARS-CoV-2 and influenza, 2021.
+[2] Sadegh Marzban, Renji Han, Nóra Juhász, Gergely Röst, A hybrid PDE-ABM model for viral dynamics with application to SARS-CoV-2 and influenza, bioRxiv: https://doi.org/10.1101/2021.05.07.443053, 2021.
 
