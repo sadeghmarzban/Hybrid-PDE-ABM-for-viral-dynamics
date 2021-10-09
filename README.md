@@ -8,7 +8,6 @@ We use a hybrid partial differential equation -- agent-based (PDE–ABM) model t
 
 The repository also contains supplementary images to [2] -- they are dedicated to exploring the model’s sensitivity to different diffusion parameters and grasping the infection dynamics in more detail. The pictures were obtained by using diffusion values of 0.1, 0.2, ..., 0.9 σ^2 /min.
 
-
 To run this model, you will need
 1.) to download the latest version of [HAL](https://github.com/MathOnco/HAL.git),
 2.) Java,
